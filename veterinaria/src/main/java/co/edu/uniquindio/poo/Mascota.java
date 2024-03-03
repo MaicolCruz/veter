@@ -1,6 +1,6 @@
 /**
  * Clase para probar el funcionamiento del código de la informacion de estudiantes
- * @author Maicol Steven Paez Cruz
+ * @author Maicol Steven Paez Cruz y Hector Daniel Gonzalez Sanchez
  * @since 2024-03-03
  * 
  * Licencia GNU/GPL V3.0 (https://raw.githubusercontent.com/grid-uq/poo/main/LICENSE) 
